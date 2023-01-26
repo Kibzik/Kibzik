@@ -42,7 +42,7 @@ I passionate about Data Science & Football.
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Kibzik&show_icons=true&theme=highcontrast&count_private=true&hide_border=true" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=Kibzik&theme=highcontrast&hide_border=true" width = 400>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kibzik&hide=html,cmake,css,scss,powershell,assembly,procfile,shell,less,jupyter%20notebook&theme=highcontrast&langs_count=11&layout=compact&hide_border=true" width = 60%>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kibzik&hide=html,cmake,css,scss,powershell,assembly,procfile,shell,less,jupyter, purebasic%20notebook&theme=highcontrast&langs_count=11&layout=compact&hide_border=true" width = 60%>
 </p>
 
 <p align="right">
