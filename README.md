@@ -4,8 +4,8 @@ Howdy!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-I'm Kiryl, a Data Scientist with 2+ years of experience in classic DS. 
-I passionate about Data Science & Football.
+I'm Kiryl, a Data Specialist(Scientist, Analyst, Engineer) with 3+ years of experience in classic DS. 
+I'm passionate about the field of data and using a data-driven approach for every business.
  
 <p align = "center">
   
